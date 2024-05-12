@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Individual games/Brick Breaker/Brick Breaker.iml" filepath="$PROJECT_DIR$/Individual games/Brick Breaker/Brick Breaker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final Game/Final Game.iml" filepath="$PROJECT_DIR$/Final Game/Final Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Individual games/Pong/Pong.iml" filepath="$PROJECT_DIR$/Individual games/Pong/Pong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/The Arcade.iml" filepath="$PROJECT_DIR$/.idea/The Arcade.iml" />
+    </modules>
+  </component>
+</project>
